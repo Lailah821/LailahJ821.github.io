@@ -1,1 +1,3 @@
-# Starlight.github.io
+# Lailah's official blog
+
+Every data analysis method will be uploaded here!
